@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -21,13 +21,6 @@
         h1 {
             text-align: center;
             color: #333;
-        }
-        .profile {
-            text-align: center;
-        }
-        .profile img {
-            width: 150px;
-            border-radius: 50%;
         }
         .info {
             margin-top: 20px;
