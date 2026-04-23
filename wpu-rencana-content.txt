@@ -2,6 +2,8 @@ RENCANA KONTEN WPU
 
 - JAVASCRIPT
  * ES6
+- PHP Framework
+   - Laravel
  * Framework Javascript
   ^ Vue
   ^ React
